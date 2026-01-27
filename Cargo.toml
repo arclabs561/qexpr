@@ -5,6 +5,9 @@ edition = "2021"
 rust-version = "1.80"
 license = "MIT OR Apache-2.0"
 description = "Typed query expressions (query algebra) for retrieval systems."
+repository = "https://github.com/arclabs561/qexpr"
+homepage = "https://github.com/arclabs561/qexpr"
+documentation = "https://docs.rs/qexpr"
 publish = true
 
 [dependencies]
