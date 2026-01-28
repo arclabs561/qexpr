@@ -9,6 +9,9 @@ repository = "https://github.com/arclabs561/qexpr"
 homepage = "https://github.com/arclabs561/qexpr"
 documentation = "https://docs.rs/qexpr"
 publish = true
+readme = "README.md"
+keywords = ["information-retrieval", "query", "ast", "search"]
+categories = ["text-processing", "algorithms"]
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"], optional = true }
